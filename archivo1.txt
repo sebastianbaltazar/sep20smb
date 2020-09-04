@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 esta es mi primera prueba con el mio
+=======
+
+
+esta es una prueba
+modificado3
+
+modificado3
+
+>>>>>>> rama_salvador
