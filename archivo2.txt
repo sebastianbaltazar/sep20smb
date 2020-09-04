@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 archivo creado por sebastian desde master
 hola hoy estoy haciendo una prueba
 
+=======
+modificado por sebastian 
+>>>>>>> rama_sebastian
