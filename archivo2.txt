@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 archivo creado por sebastian desde master
+=======
+
+linea agregada por JMC
+linea agregada por JMC
+linea agregada por JMC
+linea agregada por JMC
+>>>>>>> e7d3f3a53d8dbba11691b58589e0941e271ec68d
