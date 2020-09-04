@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 esta es mi primera prueba con el mio
 =======
 
@@ -9,3 +10,6 @@ modificado3
 modificado3
 
 >>>>>>> rama_salvador
+=======
+linea agregada por JMC
+>>>>>>> rama_jmcjuan

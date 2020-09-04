@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 archivo creado por sebastian desde master
 hola hoy estoy haciendo una prueba
 
@@ -11,3 +12,13 @@ modificado por sebastian
 modificado por salvador
 
 >>>>>>> rama_salvador
+=======
+archivo creado por sebastian desde master
+=======
+
+linea agregada por JMC
+linea agregada por JMC
+linea agregada por JMC
+linea agregada por JMC
+>>>>>>> e7d3f3a53d8dbba11691b58589e0941e271ec68d
+>>>>>>> rama_jmcjuan
